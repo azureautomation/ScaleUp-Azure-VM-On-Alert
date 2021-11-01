@@ -1,0 +1,1 @@
+# ScaleUp-Azure-VM-On-Alert
